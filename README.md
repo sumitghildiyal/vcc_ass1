@@ -26,5 +26,3 @@ See `architecture.mmd` for a visual representation of the system flow.
 - Node.js + Express.js
 - REST APIs for communication
 - Axios for HTTP requests
-
-## Project Structure 
